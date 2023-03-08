@@ -1,4 +1,4 @@
-
+# SAHIL SHARMA
 #### Full Stack Developer
 #####  Winnipeg, MB **.** (204) 930-6094 **.** sharm56@myumanitoba.ca
 
@@ -20,7 +20,7 @@ As a full stack development student, I have experience creating online applicati
     * Planned and conducted orientation programs and group conferences to promote adjustment of individuals to new life experiences, such as starting college.
     * Served as a role model to promote positive behaviour and attitudes, such as good study habits, time management skills, and effective communication skills.
 
-- **Security Officer**
+- **Security Officer**  
     August 2019 - Present  
     Allied Universal Security Services,
 
