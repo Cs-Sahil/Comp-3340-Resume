@@ -5,7 +5,10 @@
 #   - jekyll-feed
 
 
-remote_theme: daattali/beautiful-jekyll
-plugins: 
-- jekyll-remote-theme
-title: "RESUME OF Sahil Sharma"
+# remote_theme: daattali/beautiful-jekyll
+# plugins: 
+# - jekyll-remote-theme
+# title: "RESUME OF Sahil Sharma"
+
+title: RESUME OF SAHIL SHARMA
+theme: jekyll-theme-hacker
