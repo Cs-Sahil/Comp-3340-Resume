@@ -1,3 +1,5 @@
+<img src= "github.png" align="right" width="200" height="200">
+
 # GitHub-Powered Resume
 
 
