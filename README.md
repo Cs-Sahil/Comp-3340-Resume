@@ -11,7 +11,8 @@
 
 
 ## PREREQUISITES
-- To begin with, we require a resume that is formatted in Markdown [Resume]()
+- To begin with, we require a resume that is formatted in Markdown.
+- Please see the [Resume](https://github.com/Cs-Sahil/Cs-Sahil.github.io/blob/main/index.md) formatted in Markdown.
 
 
 ## INSTRUCTIONS  
