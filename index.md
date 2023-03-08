@@ -1,4 +1,3 @@
-# SAHIL SHARMA
 #### Full Stack Developer
 #####  Winnipeg, MB **.** (204) 930-6094 **.** sharm56@myumanitoba.ca
 
