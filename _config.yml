@@ -1,5 +1,11 @@
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+
+remote_theme: daattali/beautiful-jekyll
+plugins: 
+- jekyll-remote-theme
+title: "RESUME OF Sahil Sharma"
