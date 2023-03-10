@@ -79,6 +79,10 @@ There are several DVCS systems to choose from, including GitHub Pages and Codebe
 - Click on the `Commit new file`  button.
 <img src= "commit.png"  width="250" height="140">
 
+- You have successfully created the `_config.yml` file.
+- Reload a page to view the file in repository.
+
+
 ### Step 4: Upload Your Resume
 
 - Click on `Add file` located under the setting icon ⚙️.
