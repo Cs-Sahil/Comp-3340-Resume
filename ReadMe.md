@@ -122,11 +122,14 @@ Here are the best editors for Markdown according to Etter:
 
 - Click on your `Resume.md` file on GitHub page.
 <img src= "front.png"  width="700" height="130">
+
 - Click the pencil icon on the right side of your resume dialogue box.
+
 - Change the filename to `index.md`.
 <img src= "rename.png"  width="500" height="170">
 
 - Write your commit message under `Commit changes` section.
+
 - Click on `Commit Changes`.
 
 - Hurray!!😎 You have successfully renamed the file.
