@@ -1,5 +1,5 @@
 <img src= "github.png" align="right" width="200" height="200">
-<!-- <img src= "resume.gif"  align="center" width="950" height="420"> -->
+
 # GitHub-Powered Resume
 
 
@@ -35,13 +35,13 @@
 
 ### Step 2: Creating a New Repository
  - Click on the `New` at the top left corner of the homepage.
- <img src= "new_repo.png"  width="300" height="100">
+ <img src= "new_repo.png"  width="350" height="110">
 
  - Enter your repository name as `username.github.io` format.
-  <img src= "username.png"  width="470" height="130">
+  <img src= "username.png"  width="670" height="170">
 
 - Click on the `Public` option.
-     <img src= "public.png"  width="550" height="130">
+ <img src= "public.png"  width="600" height="130">
 
 - Click on `Create repository` button at bottom of the page.
 - Congratulations!!👏 You created a new GitHub repository.
@@ -64,7 +64,7 @@ There are several DVCS systems to choose from, including GitHub Pages and Codebe
 ### Step 3: Creating the New File in GitHub
 
 - Click on the `creating a new file` after creating the repository.
-     <img src= "new_file.png"  width="750" height="130">
+ <img src= "new_file.png"  width="650" height="140">
 
 
 - Name the file `_config.yml` and enter the following Jekyll theme in the `Edit new File` dialogue box.
@@ -77,13 +77,13 @@ There are several DVCS systems to choose from, including GitHub Pages and Codebe
     ```     
 - Write a commit message under `Commit changes`.
 - Click on the `Commit new file`  button.
-    <img src= "commit.png"  width="250" height="140">
+<img src= "commit.png"  width="250" height="140">
 
 ### Step 4: Upload Your Resume
 
 - Click on `Add file` located under the setting icon ⚙️.
 - Select the `Upload files` option.
-     <img src= "upload.png"  width="500" height="140">
+<img src= "upload.png"  width="600" height="170">
 
 - Drag or browse your Markdown-formatted resume.
 - Write a commit message under `Commit changes`.
@@ -117,22 +117,25 @@ Here are the best editors for Markdown according to Etter:
 ### Step 5: Rename Your Resume File
 
 - Click on your `Resume.md` file on GitHub page.
-      <img src= "front.png"  width="700" height="100">
+<img src= "front.png"  width="700" height="130">
 - Click the pencil icon on the right side of your resume dialogue box.
 - Change the filename to `index.md`.
-        <img src= "rename.png"  width="500" height="140">
+<img src= "rename.png"  width="500" height="170">
+
 - Write your commit message under `Commit changes` section.
 - Click on `Commit Changes`.
+
 - Hurray!!😎 You have successfully renamed the file.
 
 ### Step 6: View Your Resume as Website
 - Under your repository name, click  Settings ⚙️.
-    <img src= "setting.png"  width="700" height="140">
+<img src= "setting.png"  width="700" height="140">
+
 - Click on `pages` located under "Code and automation" of the side bar.
-     <img src= "pages.png"  width="200" height="170">
+<img src= "pages.png"  width="200" height="170">
 
 - To view your published resume, click the `visit site` under GitHub pages.
-        <img src= "site.png"  width="700" height="170">
+<img src= "site.png"  width="700" height="170">
 
 - Congratulations!!👏 you have sucessfully uploaded your resume to GitHub.
 
